@@ -1,1 +1,1 @@
-web: bash start setup
+web:start setup
